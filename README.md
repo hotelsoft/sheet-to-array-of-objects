@@ -14,7 +14,7 @@ npm install sheet-to-array-of-objects
 # Try
 
 ```
-var SheetToArrayOfObjects = require('../lib/index');
+var SheetToArrayOfObjects = require('sheet-to-array-of-objects');
 SheetToArrayOfObjects({
 	key: "1GMWX3mMBPRnaIC3lTlRQfDhayELKFmpJWLYu2eM20dQ"
 }, function (err, data) {
