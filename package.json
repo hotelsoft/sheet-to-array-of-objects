@@ -1,6 +1,6 @@
 {
 	"name": "sheet-to-array-of-objects",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Convert Public Google Spreadsheet into JavaScript Array of Objects",
 	"main": "./lib/index.js",
 	"scripts": {
